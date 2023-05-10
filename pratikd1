@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        img{
+            width: 200px;
+            height: 200px;
+            border: 2px solid yellow;
+        }
+    </style>
+   <title id="task2">This is a webpage</title>
+</head>
+<body>
+    <div id="top"></div>
+    <a href="#bottom">SCROLL TO BOTTOM</a>
+    <section id="task1">
+
+        <p> Hello, This is pratik & sneha!!</p>
+
+    </section>
+
+
+
+    <section id="task3">
+
+        <p style="color:green;">pratik & sneha</p>
+
+    </section>
+
+
+
+    <section id="task4">
+
+        <p> Title of The Book: <u>Ikigai,</u> Author of the Book: <u>Hector Garcia,</u> Description : Ikigai is an <i><b>incredible</b></i> concept that can benefit many people. Whether you feel stuck in your job, want to live <i><b>longer</b></i>, or just desire a deeper level of happiness and meaning, finding your reason to live will help you.</p>
+
+    </section>
+    <section id="task5" >
+
+        <h1>M &nbsp; U</h1><h2>E &nbsp; Z</h2><h3>G &nbsp; M</h3><h4>H &nbsp; A</h4><h5>V</h5><h6>I</h6>
+
+    </section>
+    <section id="task6">
+
+        <ol type="A">
+    
+            <li>Meghvi<sub>1 <br></sub></li>
+    
+            <li>Uzma<sub>2 <br></sub></li>
+    
+            <li>Jyoti<sub>3 <br></sub></li>
+    
+        </ol>
+    
+    </section>
+    
+    <p id="task7">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui, doloremque doloribus impedit consequuntur repudiandae ullam itaque debitis assumenda beatae, optio officia quibusdam &nbsp;&nbsp;&nbsp;natus magnam quasi quae provident. Perferendis, blanditiis &nbsp;&nbsp; &nbsp; natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur saepe laborum minima ad optio aspernatur itaque repudiandae quia consequuntur numquam neque laboriosam facere odit, unde laudantium voluptate modi. Earum, odio. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab eius maiores ducimus autem impedit, commodi illum molestiae debitis labore, cumque quisquam delectus adipisci, a nam iure consectetur optio molestias ullam.</p>
+    <pre id="task8">
+        Hi,           Good    Afternoon!
+        Welcome to H&M business tech!!!!
+        This          is      task    #8
+        BYEEEEEE                    EEEE
+    </pre>
+    <p>TASK 9</p>
+    <div  id="task9">
+        <p>
+            <q>
+                We write to taste life twice, in the moment and in retrospect.
+        </q>
+        --Anaïs Nin
+        </p>
+        <p>
+            <blockquote>
+                Read, read, read. Read everything -- trash, classics, good and bad, and see how they do it. 
+                Just like a carpenter who works as an apprentice
+                 and studies the master. Read! You'll absorb it.
+                  Then write. If it's good, you'll find out. 
+                  If it's not, throw it out of the window.    
+            </blockquote>
+        --William Faulkner
+        </p>
+    </div>
+    <p>TASK 10</p>
+
+    <div id="task10">
+        <a href="https://www.google.co.in">Google</a>
+        <a href="www.yahoo.com">Yahoo</a>
+        <a href="www.bing.com">BING</a>
+    </div>
+    <img id="task12" src="https://media.glassdoor.com/l/87/6a/3e/01/store.jpg">
+    </br>
+    <section id="task13">
+
+        <a target="_blank" href="https://www.google.co.in">
+    
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png" alt="Link to Google" style="width:200px;">
+    <br/><a id="task11" href="#top">SCROLL TO TOP</a>
+   <div id="bottom"></div>
+</body>
+</html>
